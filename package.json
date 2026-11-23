@@ -1,0 +1,17 @@
+{
+  "name": "3sreach",
+  "version": "1.0.0",
+  "description": "Score short videos before upload. Win the first 3 seconds. Grow your reach.",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
